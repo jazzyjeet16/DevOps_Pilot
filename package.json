@@ -1,0 +1,10 @@
+{
+  "name": "devopspilot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack DevOps automation platform powered by n8n",
+  "scripts": {
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev"
+  }
+}
